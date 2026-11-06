@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://brutal-barber.ru/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://brutal-barber.ru/img/hero-nikita-lg.jpg</image:loc><image:title>Барбер Никита, барбершоп БрутAL Шелехов</image:title></image:image>
+    <image:image><image:loc>https://brutal-barber.ru/img/team-lg.jpg</image:loc><image:title>Команда барбершопа БрутAL</image:title></image:image>
+    <image:image><image:loc>https://brutal-barber.ru/img/work-mustache-lg.jpg</image:loc><image:title>Мужская стрижка high fade в Шелехове</image:title></image:image>
+    <image:image><image:loc>https://brutal-barber.ru/img/work-curly-crop-lg.jpg</image:loc><image:title>Кроп с локонами и фейдом</image:title></image:image>
+    <image:image><image:loc>https://brutal-barber.ru/img/work-beard-razor-lg.jpg</image:loc><image:title>Оформление бороды в Шелехове</image:title></image:image>
+  </url>
+</urlset>
